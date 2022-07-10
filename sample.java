@@ -4,8 +4,8 @@ class Sample{
 	
 		string.out.println("Hello Welcome");
 		string.out.println("To JAVA"); 
-		string.out.pringln("conflict _ main1");
-
+		string.out.println("conflict _ main1");
+		string.out.println("rebase");
 	}
 
 }
